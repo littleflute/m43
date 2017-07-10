@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 What a Difference a Day Makes.mp3";		
+f[2]	= "02 Mack the Knife [Live].mp3";		
+f[3]	= "03 Fine and Mellow.mp3";		
+f[4]	= "04 Prelude To a Kiss.mp3";		
+f[5]	= "05 Don't Explain.mp3";		
+f[6]	= "06 You've Changed.mp3";		
+f[7]	= "07 What a Little Moonlight Can Do.mp3";		
+f[8]	= "08 Misty [Live].mp3";		
+f[9]	= "09 East of the Sun.mp3";		
+f[10]	= "10 I Only Have Eyes For You.mp3";		
+f[11]	= "11 Take the 'a' Train.mp3";		
+f[12]	= "12 I Cover the Waterfront.mp3";		
