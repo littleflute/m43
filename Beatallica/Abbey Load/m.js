@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Come Together.mp3";		
+f[2]	= "02 I Saw Her Standing There.mp3";		
+f[3]	= "05 Please Please Me.mp3";		
+f[4]	= "07 You Never Give Me Your Money.mp3";		
+f[5]	= "08 Sun King.mp3";		
+f[6]	= "09 Mean Mr. Mustard.mp3";		
+f[7]	= "10 Polythene Pam.mp3";		
+f[8]	= "11 She Came In Through the Bathroom Window.mp3";		
+f[9]	= "12 Golden Slumbers.mp3";		
+f[10]	= "13 Carry That Weight.mp3";		
+f[11]	= "14 The End.mp3";		
+f[12]	= "15 Her Majesty.mp3";		
+f[13]	= "Blackbird.mp3";		
+f[14]	= "Help.mp3";		
+f[15]	= "Michelle.mp3";		
