@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Pick Up the Pieces.mp3";		
+f[2]	= "02 Off on Your Own (Girl).mp3";		
+f[3]	= "03 Down to the Nightclub.mp3";		
+f[4]	= "04 Doo Wa Ditty (Blow That Thing).mp3";		
+f[5]	= "05 Cheap Thrills.mp3";		
+f[6]	= "06 Beat Box [Diversion One].mp3";		
+f[7]	= "07 Jungle Love.mp3";		
+f[8]	= "08 Haven't You Heard.mp3";		
+f[9]	= "09 I Feel for You.mp3";		
+f[10]	= "10 The Glamorous Life.mp3";		
+f[11]	= "11 White Horse.mp3";		
+f[12]	= "12 Object of My Desire.mp3";		
+f[13]	= "13 Why Leave Us Alone.mp3";		
+f[14]	= "14 You Are in My System.mp3";		
+f[15]	= "15 Track 15.mp3";		
