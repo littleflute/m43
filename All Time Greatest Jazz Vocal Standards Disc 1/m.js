@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 My Funny Valentine.mp3";		
+f[2]	= "02 Someone To Watch Over Me.mp3";		
+f[3]	= "04 Stranger Fruit.mp3";		
+f[4]	= "05 Stormy Weather.mp3";		
+f[5]	= "06 I Loves You Porgy.mp3";		
+f[6]	= "07 It Don't Mean a Thing If It Ain't Got That Swing.mp3";		
+f[7]	= "08 Night and Day.mp3";		
+f[8]	= "10 Fly Me To the Moon.mp3";		
+f[9]	= "11 Georgia On My Mind.mp3";		
+f[10]	= "12 Oh Lady, Be Good.mp3";		
+f[11]	= "Skylark.mp3";		
+f[12]	= "Tenderly.mp3";		
