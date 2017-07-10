@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "02 Lullabye of Birdland.mp3";		
+f[2]	= "03 You Don't Know What Love is.mp3";		
+f[3]	= "04 Let's Do It (Let's Fall In Love).mp3";		
+f[4]	= "05 Willow Weep For Me.mp3";		
+f[5]	= "06 I've Got You Under My Skin.mp3";		
+f[6]	= "07 God Bless the Child.mp3";		
+f[7]	= "09 I Get Along Without You Very Well.mp3";		
+f[8]	= "10 Black Coffee.mp3";		
+f[9]	= "11 Like Someone In Love.mp3";		
+f[10]	= "12 Blue Skies.mp3";		
+f[11]	= "Summertime.mp3";		
+f[12]	= "Unforgettable.mp3";		
