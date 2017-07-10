@@ -1,0 +1,11 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 I'll Be Home for Christmas.mp3";		
+f[2]	= "02 Santa Claus Is Coming to Town.mp3";		
+f[3]	= "03 The Sleigh in the Moon.mp3";		
+f[4]	= "04 Sleigh Ride.mp3";		
+f[5]	= "05 Ave Maria.mp3";		
+f[6]	= "06 X-Spirit Catcher.mp3";		
+f[7]	= "07 Let It Snow Let It Snow.mp3";		
+f[8]	= "08 A Holly Jolly Christmas.mp3";		
+f[9]	= "09 Christmas Face.mp3";		
