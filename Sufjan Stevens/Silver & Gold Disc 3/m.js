@@ -1,0 +1,11 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Angels We Have Heard on High.mp3";		
+f[2]	= "02 Do You Hear What I Hear.mp3";		
+f[3]	= "03 Christmas in the Room.mp3";		
+f[4]	= "04 It Came Upon a Midnight Clear.mp3";		
+f[5]	= "05 Good King Wenceslas.mp3";		
+f[6]	= "06 Alphabet St.mp3";		
+f[7]	= "07 Particle Physics.mp3";		
+f[8]	= "08 Joy to the World.mp3";		
+f[9]	= "09 The Child with the Star on His Head [Live].mp3";		
